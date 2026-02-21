@@ -1,3 +1,9 @@
+# Problem Set 0
+# Name: Kenneth Murray
+# Collaborators: None
+# Time Spent : 1 minute
+
+
 import numpy
 
 x = 5
