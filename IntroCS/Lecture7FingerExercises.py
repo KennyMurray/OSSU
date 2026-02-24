@@ -1,4 +1,4 @@
-#Lecture 6 finger exercise
+#Lecture 7 finger exercise
 
 def eval_quadratic(a, b, c, x):
     """
