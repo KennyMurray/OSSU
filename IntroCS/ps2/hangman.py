@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name:
-# Collaborators:
-# Time spent:
+# Name: Kenneth Murray
+# Collaborators: None
+# Time spent: 1.5 hours
 
 import random
 import string
