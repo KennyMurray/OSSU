@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = []
+recent_files = ['..\\..\\.spyder-py3\\temp.py', 'Lecture10FingerExercises.py', 'Lecture11FingerExercises.py', 'ps2\\hangman.py', 'ps2\\test_ps2_student.py']
 
 [main]
 version = 0.2.0
